@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appraise-results>
+
+<ranking-result source-language="en" id="enca_transformerft_orwell" target-language="ca">
+  <ranking-item doc-id="orwell.appraise_refsl" id="1" duration="00:00:45.612000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="1" duration="00:01:22.059000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="2" duration="00:00:25.380000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="2" duration="00:00:23.799000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="3" duration="00:00:41.638000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="3" duration="00:00:31.974000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="4" duration="00:00:43.146000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="4" duration="00:01:18.627000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="5" duration="00:00:33.053000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="5" duration="00:00:55.979000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="6" duration="00:00:47.913000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="6" duration="00:01:00.657000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="7" duration="00:00:31.468000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="7" duration="00:00:30.067000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="8" duration="00:15:25.337000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="8" duration="00:00:52.942000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="9" duration="00:00:10.365000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="9" duration="00:00:08.955000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="10" duration="00:00:36.066000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="10" duration="00:00:58.601000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="11" duration="00:00:10.060000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="11" duration="00:00:21.245000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="12" duration="00:00:25.455000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="12" duration="00:00:34.569000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="13" duration="00:01:13.302000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="13" duration="00:01:13.488000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="14" duration="00:00:49.686000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="14" duration="00:00:57.102000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="15" duration="00:00:32.642000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="15" duration="00:00:32.126000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="16" duration="00:01:29.042000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="16" duration="00:01:41.461000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="17" duration="00:00:45.115000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="17" duration="00:01:23.993000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="18" duration="00:00:26.980000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="18" duration="00:00:19.946000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="19" duration="00:00:25.294000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="19" duration="00:00:33.329000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="20" duration="00:00:51.471000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="20" duration="00:01:14.025000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="21" duration="00:00:23.113000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="21" duration="00:00:20.062000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="22" duration="00:00:29.872000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="22" duration="00:00:53.813000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="23" duration="00:00:45.872000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="23" duration="00:00:30.742000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="24" duration="00:00:11.732000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="24" duration="00:00:12.239000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="25" duration="00:00:10.855000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="25" duration="00:00:17.289000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="26" duration="00:00:29.057000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="26" duration="00:00:21.470000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="27" duration="00:00:14.376000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="27" duration="00:00:12.715000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="28" duration="00:00:08.765000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="28" duration="00:00:15.054000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="29" duration="00:00:57.551000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="29" duration="00:00:35.997000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="30" duration="00:00:31.872000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="30" duration="00:00:43.175000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="31" duration="00:00:11.997000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="31" duration="00:00:22.375000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="32" duration="00:00:31.893000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="32" duration="00:00:35.491000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="33" duration="00:00:41.211000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="33" duration="00:00:49.312000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="34" duration="00:00:47.470000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="34" duration="00:00:54.421000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="35" duration="00:00:38.174000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="35" duration="00:00:36.285000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="36" duration="00:01:55.926000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="36" duration="00:01:08.230000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="37" duration="00:00:29.259000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="37" duration="00:00:52.964000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="38" duration="00:00:47.223000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="38" duration="00:00:56.160000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="39" duration="00:00:33.238000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="39" duration="00:00:41.424000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="40" duration="00:00:48.368000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="40" duration="00:00:57.342000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="41" duration="00:00:33.807000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="41" duration="00:00:41.924000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="42" duration="00:00:19.700000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="42" duration="00:00:22.098000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="43" duration="00:00:29.563000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="43" duration="00:00:36.395000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="44" duration="00:00:09.752000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="44" duration="00:00:17.098000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="45" duration="00:00:49.638000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="45" duration="00:00:50.853000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="46" duration="00:00:31.085000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="46" duration="00:00:39.676000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="47" duration="00:00:22.246000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="47" duration="00:00:19.589000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="48" duration="00:00:22.884000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="48" duration="00:00:25.764000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="49" duration="00:00:22.726000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="49" duration="00:00:23.662000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="50" duration="00:00:15.101000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="50" duration="00:00:16.503000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="51" duration="00:00:22.470000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="51" duration="00:00:23.149000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="52" duration="00:00:17.579000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="52" duration="00:00:26.968000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="53" duration="00:01:53.784000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="53" duration="00:00:19.116000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="54" duration="00:00:12.073000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="54" duration="00:02:23.390000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="55" duration="00:00:11.722000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="55" duration="00:00:29.424000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="56" duration="00:00:15.761000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="56" duration="00:00:10.240000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="orwell.appraise_refsl" id="57" duration="00:00:10.524000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="57" duration="00:00:10.850000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="58" duration="00:00:28.693000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="58" duration="00:00:20.873000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="59" duration="00:00:19.598000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="59" duration="00:00:26.301000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="60" duration="00:00:18.114000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="60" duration="00:00:58.235000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="61" duration="00:00:55.295000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="61" duration="00:00:40.987000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="62" duration="00:00:27.433000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="62" duration="00:00:37.981000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="63" duration="00:00:21.561000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="63" duration="00:00:25.549000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="64" duration="00:00:56.283000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="64" duration="00:01:09.936000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="65" duration="00:00:20.282000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="65" duration="00:00:28.033000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="66" duration="00:01:14.819000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="66" duration="00:00:29.372000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="67" duration="00:00:45.422000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="67" duration="00:00:29.758000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="68" duration="00:01:05.361000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="68" duration="00:00:27.398000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="69" duration="00:01:03.517000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="69" duration="00:00:40.183000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="70" duration="00:00:54.497000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="70" duration="00:00:53.230000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="71" duration="00:02:12.916000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="71" duration="00:00:38.168000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="72" duration="00:00:51.979000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="72" duration="00:00:58.730000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="73" duration="00:01:18.101000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="73" duration="00:01:14.043000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="74" duration="00:11:41.409000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="74" duration="00:00:51.241000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="75" duration="00:00:45.855000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="75" duration="00:01:38.323000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="76" duration="00:00:40.201000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="76" duration="00:00:35.062000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="77" duration="00:00:54.745000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="77" duration="00:07:26.449000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="78" duration="00:00:50.914000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="78" duration="00:00:46.648000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="79" duration="00:00:52.955000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="79" duration="00:01:38.900000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="80" duration="00:00:25.689000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="80" duration="00:00:38.468000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="81" duration="00:00:26.205000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="81" duration="00:00:50.629000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="82" duration="00:00:49.527000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="82" duration="00:00:12.618000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="83" duration="00:00:27.491000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="83" duration="00:00:22.278000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="84" duration="00:01:03.819000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="84" duration="00:00:14.789000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="85" duration="00:00:24.964000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="85" duration="00:00:21.091000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="86" duration="00:00:24.135000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="86" duration="00:00:29.365000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="87" duration="00:00:18.296000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="87" duration="00:00:26.528000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="88" duration="00:00:29.935000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="88" duration="00:00:15.611000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="89" duration="00:00:14.566000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="89" duration="00:00:11.450000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="90" duration="00:00:59.249000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="90" duration="00:00:52.124000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="91" duration="00:00:45.324000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="91" duration="00:02:16.265000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="92" duration="00:00:43.144000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="92" duration="00:00:34.305000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="93" duration="00:00:55.380000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="93" duration="00:04:21.202000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="94" duration="00:01:50.705000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="94" duration="00:02:24.336000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="95" duration="00:01:42.854000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="95" duration="00:06:14.799000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="96" duration="00:00:45.995000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="96" duration="00:00:25.876000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="97" duration="00:00:17.505000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="97" duration="00:00:22.233000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="98" duration="00:00:09.885000" user="evaluator2" skipped="true" />
+  <ranking-item doc-id="orwell.appraise_refsl" id="98" duration="00:00:10.236000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="orwell.appraise_refsl" id="99" duration="00:01:01.456000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="99" duration="00:04:43.397000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="100" duration="00:00:40.482000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="3" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="100" duration="00:00:32.449000" user="evaluator1">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="101" duration="00:00:23.238000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="2" />
+    <translation system="orwell.appraise_t2" rank="3" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="102" duration="00:00:19.487000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="2" />
+    <translation system="orwell.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="orwell.appraise_refsl" id="103" duration="00:00:17.314000" user="evaluator2">
+    <translation system="orwell.appraise_t1" rank="1" />
+    <translation system="orwell.appraise_t2" rank="1" />
+    <translation system="orwell.appraise_t3" rank="1" />
+  </ranking-item>
+</ranking-result>
+
+</appraise-results>
+

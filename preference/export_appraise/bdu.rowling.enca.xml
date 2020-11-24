@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appraise-results>
+
+<ranking-result source-language="en" id="enca_bpe_rowling" target-language="ca">
+  <ranking-item doc-id="rowling.appraise_refsl" id="1" duration="00:01:20.180000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="1" duration="00:08:50.230000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="2" duration="00:00:40.350000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="2" duration="00:02:14.971000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="3" duration="00:01:13.129000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="3" duration="00:01:15.939000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="4" duration="00:01:09" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="4" duration="00:01:02.562000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="5" duration="00:00:45.518000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="5" duration="00:01:41.555000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="6" duration="00:00:42.117000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="6" duration="00:01:07.736000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="7" duration="00:00:48.117000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="7" duration="00:01:16.288000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="8" duration="00:02:00.078000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="8" duration="00:03:21.620000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="9" duration="00:01:44.129000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="9" duration="00:01:50.113000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="10" duration="00:00:19.632000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="10" duration="00:01:12.753000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="11" duration="00:01:11.004000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="11" duration="00:00:23.283000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="12" duration="00:01:39.277000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="12" duration="00:03:49.802000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="13" duration="00:01:00.802000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="13" duration="00:00:44.163000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="14" duration="00:00:59.557000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="14" duration="00:01:39.227000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="15" duration="00:00:38.242000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="15" duration="00:00:37.407000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="16" duration="00:00:41.775000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="16" duration="00:00:28.906000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="17" duration="00:00:24.857000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="17" duration="00:00:39.115000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="18" duration="00:01:06.504000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="18" duration="00:00:51.929000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="19" duration="00:00:41.772000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="19" duration="00:00:27.544000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="20" duration="00:01:13.266000" user="evaluator2" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="20" duration="00:00:19.297000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="21" duration="00:00:41.827000" user="evaluator2" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="21" duration="00:00:20.109000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="22" duration="00:00:13.056000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="22" duration="00:00:17.586000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="23" duration="00:00:34.220000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="23" duration="00:01:22.337000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="24" duration="00:00:34.969000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="24" duration="00:01:03.323000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="25" duration="00:00:40.615000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="25" duration="00:01:30.700000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="26" duration="00:00:14.868000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="26" duration="00:00:41.158000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="27" duration="00:00:09.074000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="27" duration="00:00:14.973000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="28" duration="00:00:38.064000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="28" duration="00:01:37.645000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="29" duration="00:00:22.419000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="29" duration="00:00:19.407000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="30" duration="00:00:27.465000" user="evaluator2" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="30" duration="00:00:25.717000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="31" duration="00:01:13.868000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="31" duration="00:01:06.497000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="32" duration="00:00:42.425000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="32" duration="00:00:23.563000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="33" duration="00:00:28.509000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="33" duration="00:00:26.743000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="34" duration="00:01:08.546000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="34" duration="00:02:05.144000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="35" duration="00:00:48.470000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="35" duration="00:00:58.154000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="36" duration="00:00:57.524000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="36" duration="00:08:40.141000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="37" duration="00:00:39.124000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="37" duration="00:00:41.984000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="38" duration="00:00:10.808000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="38" duration="00:00:15.356000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="39" duration="00:01:21.733000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="39" duration="00:02:15.551000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="40" duration="00:00:24.325000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="40" duration="00:01:10.513000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="41" duration="00:00:31.477000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="41" duration="00:00:33.485000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="42" duration="00:00:24.491000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="42" duration="00:00:55.349000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="43" duration="00:00:25.174000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="43" duration="00:00:35.481000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="44" duration="00:00:57.556000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="44" duration="00:01:10.122000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="45" duration="00:00:37.559000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="45" duration="00:03:07.524000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="46" duration="00:00:41.650000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="46" duration="00:00:39.195000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="47" duration="00:00:12.154000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="47" duration="00:09:51.857000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="48" duration="00:01:03.005000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="48" duration="00:01:08.421000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="49" duration="00:00:08.612000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="49" duration="00:00:14.991000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="50" duration="00:00:54.311000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="50" duration="00:02:02.508000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="51" duration="00:00:49.418000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="51" duration="00:00:48.660000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="52" duration="00:01:00.464000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="52" duration="00:00:36.815000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="53" duration="00:01:14.740000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="53" duration="00:01:16.400000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="54" duration="00:01:24.646000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="54" duration="00:01:29.576000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="55" duration="00:01:02.720000" user="evaluator1" skipped="true" />
+  <ranking-item doc-id="rowling.appraise_refsl" id="55" duration="00:01:05.067000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="56" duration="00:00:18.045000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="56" duration="00:00:22.839000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="57" duration="00:00:59.823000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="57" duration="00:00:55.476000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="58" duration="00:01:23.540000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="58" duration="00:01:06.798000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="59" duration="00:01:09.171000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="59" duration="00:01:00.867000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="60" duration="00:00:26.204000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="60" duration="00:00:20.419000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="61" duration="00:00:20.667000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="61" duration="00:00:39.173000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="62" duration="00:00:12.209000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="62" duration="00:00:12.371000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="63" duration="00:02:04.640000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="63" duration="00:00:53.475000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="64" duration="00:00:16.842000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="64" duration="00:00:16.913000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="65" duration="00:00:10.421000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="65" duration="00:00:20.376000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="66" duration="00:00:21.969000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="66" duration="00:00:48.469000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="67" duration="00:01:21.144000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="67" duration="00:01:19.318000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="68" duration="00:00:30.754000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="68" duration="00:00:23.587000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="69" duration="00:01:28.325000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="69" duration="00:00:58.689000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="70" duration="00:00:32.081000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="70" duration="00:00:38.299000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="71" duration="00:00:06.075000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="71" duration="00:00:09.649000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="72" duration="00:00:43.124000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="72" duration="00:00:38.198000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="73" duration="00:00:09.343000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="73" duration="00:00:11.216000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="74" duration="00:02:02.872000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="74" duration="00:01:11.295000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="75" duration="00:00:23.453000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="75" duration="00:00:36.837000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="76" duration="00:00:57.398000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="76" duration="00:00:35.979000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="77" duration="00:00:32.796000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="77" duration="00:00:43.161000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="78" duration="00:01:13.376000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="78" duration="00:01:43.118000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="79" duration="00:00:09.473000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="79" duration="00:00:13.454000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="80" duration="00:05:41.095000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="80" duration="00:00:18.938000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="81" duration="00:01:07.760000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="81" duration="00:00:54.477000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="82" duration="00:00:56.642000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="82" duration="00:01:22.859000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="83" duration="00:00:45.807000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="83" duration="00:01:11.017000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="84" duration="00:00:30.569000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="84" duration="00:00:28.571000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="85" duration="00:00:12.507000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="85" duration="00:00:22.479000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="86" duration="00:00:22.780000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="86" duration="00:00:24.222000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="87" duration="00:14:53.653000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="87" duration="00:00:59.550000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="88" duration="00:00:36.742000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="88" duration="00:00:12.800000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="89" duration="00:00:42.391000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="89" duration="00:00:46.371000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="90" duration="00:00:53.812000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="90" duration="00:01:29.568000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="91" duration="00:00:09.976000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="91" duration="00:00:07.436000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="92" duration="00:00:08.751000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="92" duration="00:00:10.092000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="93" duration="00:00:06.541000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="93" duration="00:00:09.901000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="94" duration="00:00:19.196000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="94" duration="00:00:12.867000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="95" duration="00:00:07.385000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="95" duration="00:00:10.404000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="96" duration="00:00:30.300000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="96" duration="00:00:44.016000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="97" duration="00:00:06.375000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="97" duration="00:00:11.765000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="98" duration="00:00:13.053000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="98" duration="00:00:30.868000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="2" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="99" duration="00:00:43.420000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="1" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="99" duration="00:00:26.112000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="3" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="100" duration="00:00:34.394000" user="evaluator1">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="100" duration="00:00:34.832000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="1" />
+    <translation system="rowling.appraise_t2" rank="3" />
+    <translation system="rowling.appraise_t3" rank="2" />
+  </ranking-item>
+  <ranking-item doc-id="rowling.appraise_refsl" id="101" duration="00:00:21.688000" user="evaluator2">
+    <translation system="rowling.appraise_t1" rank="3" />
+    <translation system="rowling.appraise_t2" rank="2" />
+    <translation system="rowling.appraise_t3" rank="1" />
+  </ranking-item>
+</ranking-result>
+
+</appraise-results>
+
